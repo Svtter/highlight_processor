@@ -9,7 +9,7 @@ A tool to quick remove `\hl` tags in $latex$.
 ## Usage
 
 ```bash
-(base) ☁  highlight_processor [main] hlpp -h
+$ hlpp -h
 usage: highlight handle tools [-h] [--file FILE]
 
 optional arguments:
